@@ -1,2 +1,0 @@
-[console_scripts]
-logninja-join-swarm = join_logninja_docker_swarm.setup_node:setup_node

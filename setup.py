@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="join_logninja_docker_swarm",
-    version="0.1.0-dev",
+    name="logninja-join-swarm",
+    version="0.1.1-dev",
     packages=find_packages(),
     install_requires=[],
     entry_points={
